@@ -1,6 +1,6 @@
 # Hi, I'm Lily 👋
 
-MSCS @ University of Washington
+MSTI @ University of Washington
 
 AI Systems • Backend Infrastructure • LLM Applications
 
